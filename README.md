@@ -1,5 +1,5 @@
 # Atmospheric river database
- The Atmospheric river (AR) database over Northern Hemisphere based on PanLu algorithm, for paper "Pan, M. & Hu, S. Zaitchik, B., Pan, W.K. (2025). Contrasting Historical Trend of Atmospheric Rivers in the Northern Hemisphere. npj Climate and Atmospheric Science."
+ The Atmospheric river (AR) database over Northern Hemisphere based on PanLu algorithm, for paper "Pan, M., Hu, S., Zaitchik, B.F. et al. Contrasting historical trends of atmospheric rivers in the Northern Hemisphere. npj Clim Atmos Sci 8, 307 (2025). https://doi.org/10.1038/s41612-025-01191-w "
 
  We provide the AR database with 1X1 degree spatial resolution and 6-hourly temporal resolution during 1950–2022. The 0-1 fields for each 6-hourly timestep are provided in the netcdf file, where “1” represents AR present and “0” represents AR absence.
 
